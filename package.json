@@ -1,0 +1,31 @@
+{
+  "name": "bundle",
+  "version": "1.0.0",
+  "description": "bundle js files into one file.",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravitejagGitHub/Bundle.git"
+  },
+  "keywords": [
+    "bundle",
+    "js",
+    "bundle",
+    "ownwebpack"
+  ],
+  "author": "Raviteja Giduturi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravitejagGitHub/Bundle/issues"
+  },
+  "homepage": "https://github.com/ravitejagGitHub/Bundle#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0"
+  }
+}
