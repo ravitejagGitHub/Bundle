@@ -14,12 +14,18 @@ https://github.com/ronami/minipack
 https://astexplorer.net/
 
 ##install babylon - AST tree generaion
+
 npm install babylon
 
 ##Babel - Transform code using babel to make code compatabile to all browsers. 
+
 npm install babel-core
+
+
 npm install babel-preset-env - fix preset buil issue
+
     https://github.com/babel/babel-preset-env/issues/219
+    
 npm install babel-traverse - traverse AST asset
 
 
